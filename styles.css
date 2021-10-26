@@ -1,4 +1,5 @@
 body {
+  width: 100%;
   max-width: 1620px;
   margin-left: auto;
   margin-right: auto;
@@ -19,6 +20,6 @@ body {
 
 img {
   /* max-height: 30em; */
-  width: auto;
+  width: 100%;
   max-width: 48em;
 }
