@@ -5,6 +5,11 @@ body {
   margin-right: auto;
   text-align: center;
   background-color: #fff3e4;
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+}
+
+h2 {
+  font-family: "Libre Baskerville", serif;
 }
 
 .grid-container {
