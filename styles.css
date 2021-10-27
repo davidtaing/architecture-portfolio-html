@@ -38,9 +38,12 @@ header {
   list-style-type: none;
 }
 
-.nav a {
+a {
   color: #ffffff;
   text-decoration: none;
+}
+
+.nav a {
   padding: 1vw;
 }
 
@@ -68,5 +71,7 @@ img {
 }
 
 footer {
-  padding: 0 2vw 2vw 2vw;
+  padding: 0 2vw 1vw 2vw;
+  background-color: #4b6587;
+  color: #ffffff;
 }
